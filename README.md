@@ -9,5 +9,7 @@ It is included in the files. Thank you.
 
 
 Don't be alarmed when you see this.
+
 ![Block Protection](https://github.com/user-attachments/assets/fb37dd03-04b5-4bfd-bc16-ca6e29f6fd0a)
+
 It debuffs Divine Protection its just a modified Addon that worked on BoP.
