@@ -1,0 +1,8 @@
+type "/bp on" ingame to activate automatic debuffing for specifically Divine Protection
+type "/bp off" ingame to disable.
+
+This doesn't effect the higher level bubble and works off detecting the Divine Protection Icon. 
+
+I have had problems with the addon when above a certain amount of buffs
+(Like 30+ I think theres some kind of buff cap)
+Aside from those handful of times it has always worked great.

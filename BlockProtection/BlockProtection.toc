@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: BlockProtection
+## Version: 1.0
+## Author: WiP dudes
+## Notes: Cancels Blessing of Protection
+## SavedVariables: BP_CONFIG
+BlockProtection.xml
